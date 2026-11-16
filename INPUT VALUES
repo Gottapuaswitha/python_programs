@@ -1,0 +1,4 @@
+#USER INPUTS:
+
+x=list(map(int,input("enter numbers").split(",")))
+print(x)
